@@ -72,7 +72,7 @@ li a:hover:not(.active) {
 }
 article.mainpage {
   font-family: "arcade";
-  font-size: 500%;
+  font-size: 2px
   color: White;
   text-align: center;
   width: 90%;
