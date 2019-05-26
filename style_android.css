@@ -59,6 +59,7 @@ li a {
   color: White;
   font-size: 150%;
   transition: width 2s;
+  font-size: 15px
 }
 
 li a:hover:not(.active) {
