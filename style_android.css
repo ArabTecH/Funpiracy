@@ -3,7 +3,7 @@
   src: url(ka1-webfont.woff);
 }
 img.logo {
-	display: inline-grid;
+	display: inline-block;
     z-index: -1;
     position: relative;
 }
@@ -38,15 +38,13 @@ li a {
   display: block;
   font-family: "arcade";
   color: White;
-  font-size: 150%;
+  font-size: 100%;
   transition: width 2s;
 }
 
 li a:hover:not(.active) {
   background-color: #4f5154;
   text-shadow: 4px 2px #f2b526;
-  transition: width 2s;
-  width: 100%
 }
 
 .active {
