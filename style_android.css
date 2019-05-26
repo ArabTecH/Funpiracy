@@ -45,6 +45,7 @@ li {
   width: 20%;
   display: block;
   position: center;
+  font-size: 20px;
 }
 
 li:last-child {
