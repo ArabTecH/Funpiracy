@@ -1,6 +1,9 @@
+@font-face{
+	font-family: arcade;
+	src: url(ka1-webfont.woff)
+}
 img.logo {
-	width: 100%;
-	height: 10%;
+	display: inline-grid;
     z-index: -1;
     position: relative;
 }
