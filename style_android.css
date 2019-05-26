@@ -58,7 +58,6 @@ li a {
   display: block;
   font-family: "arcade";
   color: White;
-  font-size: 150%;
   transition: width 2s;
   font-size: 30px
 }
