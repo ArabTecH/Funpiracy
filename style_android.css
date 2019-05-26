@@ -24,7 +24,8 @@ h2 {
     margin-bottom: 100px;
     font-size: 30px;
     width: 100%;
-}
+    position: center;
+  }
 ul {
 	position: center;
   z-index: 1;
@@ -71,12 +72,4 @@ li a:hover:not(.active) {
 
 .active {
   background-color: #00000000;
-}
-article.mainpage {
-  font-family: "arcade";
-  font-size: 72px
-  color: White;
-  text-align: center;
-  width: 90%;
-  height: 15%;
 }
